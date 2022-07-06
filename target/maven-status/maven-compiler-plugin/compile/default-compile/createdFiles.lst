@@ -1,0 +1,3 @@
+com\mycompany\apirest\controller\ApplicationConfig.class
+com\mycompany\apirest\controller\GenericResource.class
+com\mycompany\apirest\model\ResponseGeneric.class
